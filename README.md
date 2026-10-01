@@ -14,6 +14,9 @@ Ingeniero de Software en [Viafirma](https://viafirma.com), especializado en back
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
+Uso IA generativa (Claude Code) a diario en mi flujo de desarrollo, creando mis propias skills, agentes y plugins para automatizar tareas, además de haber integrado IA conversacional (Rasa, LLMs) directamente en los productos que construyo.
 
 ## Proyectos destacados
 

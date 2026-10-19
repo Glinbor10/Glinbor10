@@ -1,7 +1,6 @@
 # Hola, soy Guillermo 👋
 
-Ingeniero de Software en [Viafirma](https://viafirma.com), especializado en backend, seguridad aplicada e infraestructura cloud. En cuatro meses pasé de becario a ingeniero a tiempo completo.
-
+Ingeniero de Software en [Viafirma](https://viafirma.com), especializado en backend, seguridad aplicada e infraestructura cloud.
 🌐 Portfolio: [guillermo-linares-borrego.vercel.app](https://guillermo-linares-borrego.vercel.app)
 💼 LinkedIn: [guillermo-linares-borrego](https://www.linkedin.com/in/guillermo-linares-borrego)
 
